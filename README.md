@@ -75,4 +75,4 @@ https://orcid.org/0009-0000-4647-1391
 
 ## License
 
-This repository will be released under an open-source license to facilitate research collaboration and reproducibility.
+This repository will be released under an MIT License
